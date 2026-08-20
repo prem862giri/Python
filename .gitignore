@@ -5,3 +5,4 @@
 # For getting status to include in what will be committed.
 # code is here for geting untracked file: [ git status]
 password.txt
+password 1234567788
